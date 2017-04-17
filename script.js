@@ -80,3 +80,49 @@ function showClasscodes(classesResponseText) {
     selectionBox.appendChild(selection);
     selection.addEventListener("change", showClassDays);
 } 
+function showClassDays() {
+    selectwhat = document.getElementById("selectwhat");
+    selectwhat.innerHTML = "Select a class day . . .";
+    classhourlist = document.getElementById("classhourlist");
+    classadviser = document.getElementById("advisername");
+    classtable = document.getElementById("studentlist");
+    classDaysDroplist = document.getElementById("classlist");
+    if(classhourlist){
+        selectionBox.removeChild(classadviser);
+        selectionBox.removeChild(classhourlist);
+    }
+    if(classtable){
+        selectionBox.removeChild(classtable);
+    }
+    selectionBox = document.getElementById("selectionbox");
+    selectedClasscode = this.value;
+    classDaysList = document.createElement("select");
+    classDaysList.setAttribute("id", "classlist");
+    for(x=0; x<classes.length; x++){
+        if(selectedClasscode == classes[x].classcode){
+            optionVar = document.createElement("option");
+            optionText = document.createTextNode("--classday--");
+            optionVar.setAttribute("value", "classday");
+            optionVar.disabled = true;
+            optionVar.selected = true;
+            optionVar.appendChild(optionText);
+            classDaysList.appendChild(optionVar);
+            for(y=0; y<classes[x].classdays.length; y++){
+                optionVar = document.createElement("option");
+                var classdayString = classes[x].classdays[y].classday;
+                optionText = document.createTextNode(classdayString);
+                optionVar.appendChild(optionText);
+                optionVar.setAttribute("value", classdayString);
+                classDaysList.appendChild(optionVar);
+            }
+        }
+    }
+	var existing = document.getElementById("classlist");
+	if(existing){
+		selectionBox.replaceChild(classDaysList, existing);
+	}else{
+		selectionBox.appendChild(classDaysList);
+	}
+    
+    classDaysList.addEventListener("change", showClassHours);
+} 
