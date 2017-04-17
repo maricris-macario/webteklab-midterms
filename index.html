@@ -1,0 +1,30 @@
+<!Doctype html>
+<head>
+    <title>NSTP</title>
+	<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" type="text/css" href="style.css">
+    <script language="javascript" src="script.js"></script>
+</head>
+<body>
+    <div id="box">
+        <h1>NSTP</h1>
+        <p id="uploadwhat">upload a text file . . . </p>
+        <input type="file" id="readtextfile"/>
+        <div id="selectionbox">
+            <p id="selectwhat">nstp schedule check . . . </p>
+            <button onclick="startRequest()" id="startbtn">Start</button>
+        </div>
+        <div id="latepopup">
+            <p id="latelabel"></p>
+            <select id="latemins">
+                <option selected disabled>--minutes--</option>
+                <option>3-5 minutes</option>
+                <option>6-14 minutes</option>
+            </select>
+            <button onclick="hideLatePopup()">cancel</button>
+        </div>
+    </div>
+    <noscript>JavaScript required</noscript>
+</body>
+</html>
