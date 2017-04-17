@@ -21,3 +21,13 @@ function showClasscodes() {
     selectionBox.appendChild(selection);
     selection.addEventListener("change", showClassDays);
 } 
+
+function startRequest(){
+    var classesRequest = new XMLHttpRequest();
+    classesRequest.open('GET', 'http://192.168.1.15/classes.json');
+    classesRequest.onload = function(){
+        classesResponseText = classesRequest.responseText;
+        showClasscodes(classesResponseText);
+    };
+    classesRequest.send();
+}
