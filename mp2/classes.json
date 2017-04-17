@@ -1,0 +1,318 @@
+[
+    {
+        "classcode": "7074",
+		"adviser": "Cristina Segnaken Aban",
+        "classdays":  [
+            {   //classday
+                "classday": "Monday",
+                "classhours": [
+                    {   //classhour
+                        "classhour": "7:30-8:30",
+                        "students": [
+                            {   //student
+                                "idno": "2151234",
+                                "name": "Akai, Red",
+                                "demerit": "",
+                                "absent": "",
+                                "report": ""
+                            },
+
+                            {   //student
+                                "idno": "2151235",
+                                "name": "Akai, Izamu",
+                                "demerit": "",
+                                "absent": "",
+                                "report": ""
+                            }
+
+                        ]
+                    },
+
+                    {   //classhour
+                        "classhour": "8:00-9:00",
+                        "students": [
+                            {
+                                "idno": "2151236",
+                                "name": "Ao, Blue",
+                                "demerit": "",
+                                "absent": "",
+                                "report": ""
+                            },
+
+                            {
+                                "idno": "2151237",
+                                "name": "Midorima, Green",
+                                "demerit": "",
+                                "absent": "",
+                                "report": ""
+                            }
+
+                        ]
+                    },
+
+                    {   //classhour
+                        "classhour": "8:30-9:30",
+                        "students": [
+                            {
+                                "idno": "2151234",
+                                "name": "Akai, Red",
+                                "demerit": "",
+                                "absent": "",
+                                "report": ""
+                            },
+
+                            {
+                                "idno": "2151237",
+                                "name": "Midorima, Green",
+                                "demerit": "",
+                                "absent": "",
+                                "report": ""
+                            }
+
+                        ]
+                    }
+                ]
+            },
+
+             {   //classday
+                "classday": "Tuesday",
+                "classhours": [
+                    {   //classhour
+                        "classhour": "7:30-8:30",
+                        "students": [
+                            {   //student
+                                "idno": "2151234",
+                                "name": "Akai, Red",
+                                "demerit": "",
+                                "absent": "",
+                                "report": ""
+                            },
+
+                            {   //student
+                                "idno": "2151235",
+                                "name": "Akai, Izamu",
+                                "demerit": "",
+                                "absent": "",
+                                "report": ""
+                            }
+
+                        ]
+                    },
+
+                    {   //classhour
+                        "classhour": "8:00-9:00",
+                        "students": [
+                            {
+                                "idno": "2151236",
+                                "name": "Ao, Blue",
+                                "demerit": "",
+                                "absent": "",
+                                "report": ""
+                            },
+
+                            {
+                                "idno": "2151237",
+                                "name": "Midorima, Green",
+                                "demerit": "",
+                                "absent": "",
+                                "report": ""
+                            }
+
+                        ]
+                    },
+
+                    {   //classhour
+                        "classhour": "8:30-9:30",
+                        "students": [
+                            {
+                                "idno": "2151234",
+                                "name": "Akai, Red",
+                                "demerit": "",
+                                "absent": "",
+                                "report": ""
+                            },
+
+                            {
+                                "idno": "2151237",
+                                "name": "Midorima, Green",
+                                "demerit": "",
+                                "absent": "",
+                                "report": ""
+                            }
+
+                        ]
+                    },
+                    {   //classhour
+                        "classhour": "9:30-10:30",
+                        "students": [
+                            {
+                                "idno": "2151234",
+                                "name": "Akai, Red",
+                                "demerit": "",
+                                "absent": "",
+                                "report": ""
+                            },
+
+                            {
+                                "idno": "2151237",
+                                "name": "Midorima, Green",
+                                "demerit": "",
+                                "absent": "",
+                                "report": ""
+                            }
+
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+
+    {
+        "classcode": "7004",
+		"adviser": "Makil Roderick",
+        "classdays":  [
+            {   //classday
+                "classday": "Monday",
+                "classhours": [
+                    {   //classhour
+                        "classhour": "7:30-8:30",
+                        "students": [
+                            {   //student
+                                "idno": "2151234",
+                                "name": "Akai, Red",
+                                "demerit": "",
+                                "absent": "",
+                                "report": ""
+                            },
+
+                            {   //student
+                                "idno": "2151235",
+                                "name": "Akai, Izamu",
+                                "demerit": "",
+                                "absent": "",
+                                "report": ""
+                            }
+
+                        ]
+                    },
+
+                    {   //classhour
+                        "classhour": "8:00-9:00",
+                        "students": [
+                            {
+                                "idno": "2151236",
+                                "name": "Ao, Blue",
+                                "demerit": "",
+                                "absent": "",
+                                "report": ""
+                            },
+
+                            {
+                                "idno": "2151237",
+                                "name": "Midorima, Green",
+                                "demerit": "",
+                                "absent": "",
+                                "report": ""
+                            }
+
+                        ]
+                    },
+
+                    {   //classhour
+                        "classhour": "8:30-9:30",
+                        "students": [
+                            {
+                                "idno": "2151234",
+                                "name": "Akai, Red",
+                                "demerit": "",
+                                "absent": "",
+                                "report": ""
+                            },
+
+                            {
+                                "idno": "2151237",
+                                "name": "Midorima, Green",
+                                "demerit": "",
+                                "absent": "",
+                                "report": ""
+                            }
+
+                        ]
+                    }
+                ]
+            },
+
+             {   //classday
+                "classday": "Tuesday",
+                "classhours": [
+                    {   //classhour
+                        "classhour": "7:30-8:30",
+                        "students": [
+                            {   //student
+                                "idno": "2151234",
+                                "name": "Akai, Red",
+                                "demerit": "",
+                                "absent": "",
+                                "report": ""
+                            },
+
+                            {   //student
+                                "idno": "2151235",
+                                "name": "Akai, Izamu",
+                                "demerit": "",
+                                "absent": "",
+                                "report": ""
+                            }
+
+                        ]
+                    },
+
+                    {   //classhour
+                        "classhour": "8:00-9:00",
+                        "students": [
+                            {
+                                "idno": "2151236",
+                                "name": "Ao, Blue",
+                                "demerit": "",
+                                "absent": "",
+                                "report": ""
+                            },
+
+                            {
+                                "idno": "2151237",
+                                "name": "Midorima, Green",
+                                "demerit": "",
+                                "absent": "",
+                                "report": ""
+                            }
+
+                        ]
+                    },
+
+                    {   //classhour
+                        "classhour": "9:30-10:30",
+                        "students": [
+                            {
+                                "idno": "2151234",
+                                "name": "Akai, Red",
+                                "demerit": "",
+                                "absent": "",
+                                "report": ""
+                            },
+
+                            {
+                                "idno": "2151237",
+                                "name": "Midorima, Green",
+                                "demerit": "",
+                                "absent": "",
+                                "report": ""
+                            }
+
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

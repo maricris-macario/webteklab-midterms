@@ -1,0 +1,106 @@
+#box {
+    text-align: center;
+    margin: 20% auto;
+}
+
+#box h1 {
+    font-family: Arial;
+    color: #00004d;
+}
+
+#box p {
+    font-family: Arial;
+}
+
+#box #classcodelist {
+    color: white;
+    background: #222222;
+}
+
+#box #classhourlist li {
+    list-style-type: none;
+    display: inline;
+    text-align: left;
+}
+
+#box #classhourlist {
+    padding: 0;
+}
+
+#box #classhourlist li button {
+    background: none;
+    border: none;
+    color: orange;
+}
+
+#box #classhourlist li button:hover {
+    color: red;
+}
+
+#studentlist {
+    margin-top: 1%;
+	white-space: nowrap;
+	font-family: arial, sans-serif;
+	border-collapse: collapse;
+	width: 100%;
+}
+
+#studentlist td, th {
+	border: 1px solid #dddddd;
+	text-align: left;
+	padding: 1%;
+}
+
+#studentlist tr:nth-child(even) {
+	background-color: #3498db;
+    color: white;
+}
+
+#studentlist tr:nth-child(odd) {
+	background-color: white;
+}
+
+#advisername {
+    font-family: helvetica;
+}
+
+#classhourlabel{
+    text-align: left;
+}
+
+#latepopup {
+    height: 50%;
+    width: 50%;
+    position: fixed;
+    top: 20%;
+    left: 20%;
+    border: 2px solid black;
+    padding: 1%;
+    color: white;
+    background: #222222;
+    border-radius: 5px;
+    visibility: hidden;
+}
+
+#table button {
+    padding: 10px;
+}
+
+#reportbtn {
+    margin-left: 0.5%;
+    color: white;
+    background-color: #1ab2ff;
+    border: none;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+#reportbtn:hover {
+    background-color: #0077b3;
+}
+
+#notifspan {
+    margin-left: 0.5%;
+    color: #8ae600;
+    font-family: Helvetica;
+}

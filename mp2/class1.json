@@ -1,0 +1,1622 @@
+[
+	{
+	  "classcode": "7004",
+	  "adviser": "Cristina S Aban",
+	  "classdays": [
+		{
+		  "classday": "Monday",
+		  "classhours": [
+			{
+			  "classhour": "7:30-8:30",
+			  "students": []
+			},
+			{
+			  "classhour": "8:00-9:00",
+			  "students": [
+				{
+				  "idno": "2134843",
+				  "name": " ABEYA, KLARIZE BAYLE RODRIGUEZ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2154290",
+				  "name": " CALMERIN, KATHLEEN DUZON",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2153202",
+				  "name": " DUMDUM, MA. JASIEL FAYE DEQUILLA",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2159311",
+				  "name": " GUIAB, JOHN CARLO MARCELO",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2153925",
+				  "name": " GARCIA, VIC GEO YUMUL",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				}
+			  ]
+			},
+			{
+			  "classhour": "8:30-9:30",
+			  "students": []
+			},
+			{
+			  "classhour": "9:00-10:00",
+			  "students": [
+				{
+				  "idno": "2140748",
+				  "name": " ABUBO, JOSHUA LEO CARPIO ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2154269",
+				  "name": " ROMERO, CAESAR JIM VARGAS ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2131546",
+				  "name": " CALIWAY, JAYSON VELASCO ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2157490",
+				  "name": " ESTRELLA, DANIELLE PHILLIP AUSTRIA ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2143553",
+				  "name": " SORIANO, GRENALYN DELA ROSA",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				}
+			  ]
+			},
+			{
+			  "classhour": "9:30-10:30",
+			  "students": []
+			},
+			{
+			  "classhour": "10:00-11:00",
+			  "students": [
+				{
+				  "idno": "2146079",
+				  "name": " ADIAN, LEIGH ANNE DEMOT ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2158498",
+				  "name": " BENITEZ, IYAR RENZO EMPLEO ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2154810",
+				  "name": " BRAVO, MA. MICAELA PANLILIO ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2137884",
+				  "name": " CAMALAO, BRENT CABALLA ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2156749",
+				  "name": " DIAZ, STEPHEN PAUL BAUZON",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				}
+			  ]
+			},
+			{
+			  "classhour": "10:30-11:30",
+			  "students": []
+			},
+			{
+			  "classhour": "11:00-12:00",
+			  "students": []
+			},
+			{
+			  "classhour": "11:30-12:30",
+			  "students": []
+			},
+			{
+			  "classhour": "1:00-2:00",
+			  "students": []
+			},
+			{
+			  "classhour": "1:30-2:30",
+			  "students": []
+			},
+			{
+			  "classhour": "2:00-3:00",
+			  "students": [
+				{
+				  "idno": "2108867",
+				  "name": " AFSARIKA, MEHDI ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2155028",
+				  "name": " CACHIN, JOEBEMARK BENEDICT DE VERA ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2151416",
+				  "name": " CALUB, JANBY LOUIS RITUMALTA ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2143111",
+				  "name": " GARCIA, MARK CARLO VALDEZ ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2152536",
+				  "name": " RABOT, MELCHIZEDEK DE GUZMAN",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				}
+			  ]
+			},
+			{
+			  "classhour": "2:30-3:30",
+			  "students": []
+			},
+			{
+			  "classhour": "3:00-4:00",
+			  "students": [
+				{
+				  "idno": "2155954",
+				  "name": " GUECO, JESSIRINE NICHOLE ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2144626",
+				  "name": " RAMIREZ, JIMMY JR. CALUZA ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2144084",
+				  "name": " SAYSON, JUSTINE LOUIE BIASON ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2150048",
+				  "name": " TESTADO, JANRIEL GASCON ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2155140",
+				  "name": " BORJE, MA. KAYE AUDREY CACAS",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				}
+			  ]
+			},
+			{
+			  "classhour": "3:30-4:30",
+			  "students": [
+				{
+				  "idno": "2133901",
+				  "name": " RAGANDA, JAN MICHAEL GADONG ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2121855",
+				  "name": " BIGO, REUEL MARTINEZ ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2117170",
+				  "name": " CACAS, FRANCISCO III DE GUZMAN ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2151235",
+				  "name": " SISON, DARREN LALUAN ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2155324",
+				  "name": " TATEL, JAYBRIANE CABUANG",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				}
+			  ]
+			},
+			{
+			  "classhour": "4:00-5:00",
+			  "students": []
+			},
+			{
+			  "classhour": "4:30-5:30",
+			  "students": []
+			},
+			{
+			  "classhour": "5:00-6:00",
+			  "students": []
+			}
+		  ]
+		},
+		{
+		  "classday": "Tuesday",
+		  "classhours": [
+			{
+			  "classhour": "7:30-8:30",
+			  "students": []
+			},
+			{
+			  "classhour": "8:00-9:00",
+			  "students": []
+			},
+			{
+			  "classhour": "8:30-9:30",
+			  "students": [
+				{
+				  "idno": "2134843",
+				  "name": " ABEYA, KLARIZE BAYLE RODRIGUEZ ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2154290",
+				  "name": " CALMERI, KATHLEEN DUZON ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2153202",
+				  "name": " DUMDUM, MA. JASIEL FAYE DEQUILLA ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2159311",
+				  "name": " GUIAB, JOHN CARLO MARCELO ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2153925",
+				  "name": " GARCIA, VIC GEO YUMUL",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				}
+			  ]
+			},
+			{
+			  "classhour": "9:00-10:00",
+			  "students": []
+			},
+			{
+			  "classhour": "9:30-10:30",
+			  "students": []
+			},
+			{
+			  "classhour": "10:00-11:00",
+			  "students": [
+				{
+				  "idno": "2108867",
+				  "name": " AFSARIKA, MEHDI ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2155028",
+				  "name": " CACHIN, JOEBEMARK BENEDICT DE VERA ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2151416",
+				  "name": " CALUB, JANBY LOUIS RITUMALTA ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2143111",
+				  "name": " GARCIA, MARK CARLO VALDEZ ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2152536",
+				  "name": " RABOT, MELCHIZEDEK DE GUZMAN",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				}
+			  ]
+			},
+			{
+			  "classhour": "10:30-11:30",
+			  "students": [
+				{
+				  "idno": "2155954",
+				  "name": " GUECO, JESSIRINE NICHOLE ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2144626",
+				  "name": " RAMIREZ, JIMMY JR. CALUZA ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2144084",
+				  "name": " SAYSON, JUSTINE LOUIE BIASON ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2150048",
+				  "name": " TESTADO, JANRIEL GASCON ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2155140",
+				  "name": " BORJE, MA. KAYE AUDREY CACAS",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				}
+			  ]
+			},
+			{
+			  "classhour": "11:00-12:00",
+			  "students": [
+				{
+				  "idno": "2153124",
+				  "name": " PIMENTEL, JEREMIAH MIKAIL BALUSA ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2158213",
+				  "name": " SIITEN, FRANCIS JOHN LOMASOC ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2155680",
+				  "name": " CABIGAS, MARYKNOLL NAZARETH ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2143451",
+				  "name": " CALARA, MHARC LOUEIS PANGILINAN ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2143637",
+				  "name": " DUMO, CARL JASPER VILLUAN",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				}
+			  ]
+			},
+			{
+			  "classhour": "11:30-12:30",
+			  "students": []
+			},
+			{
+			  "classhour": "1:00-2:00",
+			  "students": [
+				{
+				  "idno": "2146079",
+				  "name": " ADIAN, LEIGH ANNE DEMOT ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2158498",
+				  "name": " BENITEZ, IYAR RENZO EMPLEO ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2154810",
+				  "name": " BRAVO, MA. MICAELA PANLILIO ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2137884",
+				  "name": " CAMALAO, BRENT CABALLA ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2156749",
+				  "name": " DIAZ, STEPHEN PAUL BAUZON",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				}
+			  ]
+			},
+			{
+			  "classhour": "1:30-2:30",
+			  "students": [
+				{
+				  "idno": "2140748",
+				  "name": " ABUBO, JOSHUA LEO CARPIO ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2154269",
+				  "name": " ROMERO, CAESAR JIM VARGAS ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2131546",
+				  "name": " CALIWAY, JAYSON VELASCO ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2157490",
+				  "name": " ESTRELLA, DANIELLE PHILLIP AUSTRIA ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2143553",
+				  "name": " SORIANO, GRENALYN DELA ROSA",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				}
+			  ]
+			},
+			{
+			  "classhour": "2:00-3:00",
+			  "students": []
+			},
+			{
+			  "classhour": "2:30-3:30",
+			  "students": [
+				{
+				  "idno": "2140748",
+				  "name": " ABUBO, JOSHUA LEO CARPIO ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2154269",
+				  "name": " ROMERO, CAESAR JIM VARGAS ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2131546",
+				  "name": " CALIWAY, JAYSON VELASCO ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2157490",
+				  "name": " ESTRELLA, DANIELLE PHILLIP AUSTRIA ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2143553",
+				  "name": " SORIANO, GRENALYN DELA ROSA",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				}
+			  ]
+			},
+			{
+			  "classhour": "3:00-4:00",
+			  "students": [
+				{
+				  "idno": "2145749",
+				  "name": " BITSO, SHAWNIE DHALE BALTING ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2156821",
+				  "name": " DUNGAN, JUSTINE RAY FLAVIER ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2155466",
+				  "name": " PINEDA, REGINE SANTOS ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2154375",
+				  "name": " PRADES, JAMINA JASREN SORIANO ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2136304",
+				  "name": " SARMIEN, JEREMIAH JUARIZO",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				}
+			  ]
+			},
+			{
+			  "classhour": "3:30-4:30",
+			  "students": []
+			},
+			{
+			  "classhour": "4:00-5:00",
+			  "students": []
+			},
+			{
+			  "classhour": "4:30-5:30",
+			  "students": []
+			},
+			{
+			  "classhour": "5:00-6:00",
+			  "students": []
+			}
+		  ]
+		},
+		{
+		  "classday": "Wednesday",
+		  "classhours": [
+			{
+			  "classhour": "7:30-8:30",
+			  "students": []
+			},
+			{
+			  "classhour": "8:00-9:00",
+			  "students": [
+				{
+				  "idno": "2145749",
+				  "name": " BITSO, SHAWNIE DHALE BALTING ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2156821",
+				  "name": " DUNGAN, JUSTINE RAY FLAVIER ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2155466",
+				  "name": " PINEDA, REGINE SANTOS ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2154375",
+				  "name": " PRADES, JAMINA JASREN SORIANO ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2136304",
+				  "name": " SARMIEN, JEREMIAH JUARIZO",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				}
+			  ]
+			},
+			{
+			  "classhour": "8:30-9:30",
+			  "students": []
+			},
+			{
+			  "classhour": "9:00-10:00",
+			  "students": []
+			},
+			{
+			  "classhour": "9:30-10:30",
+			  "students": [
+				{
+				  "idno": "2134843",
+				  "name": " ABEYA, KLARIZE BAYLE RODRIGUEZ ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2154290",
+				  "name": " CALMERI, KATHLEEN DUZON ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2153202",
+				  "name": " DUMDUM, MA. JASIEL FAYE DEQUILLA ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2159311",
+				  "name": " GUIAB, JOHN CARLO MARCELO ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2153925",
+				  "name": " GARCIA, VIC GEO YUMUL",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				}
+			  ]
+			},
+			{
+			  "classhour": "10:00-11:00",
+			  "students": [
+				{
+				  "idno": "2150582",
+				  "name": " ABLAO, NEIL JOHN TILCAGAN ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2145784",
+				  "name": " GERONIM, JEANIEL BONUS ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2144062",
+				  "name": " QUIAMBA, RYAN CHRISTOPHER RELUCIO ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2135211",
+				  "name": " SAM, PAUL CHRISTIAN CASTRO ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2155690",
+				  "name": " SANIDAD, STEPHANIE ALYSSA LIZARDO",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				}
+			  ]
+			},
+			{
+			  "classhour": "10:30-11:30",
+			  "students": [
+				{
+				  "idno": "2153124",
+				  "name": " PIMENTEL, JEREMIAH MIKAIL BALUSA ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2158213",
+				  "name": " SIITEN, FRANCIS JOHN LOMASOC ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2155680",
+				  "name": " CABIGAS, MARYKNOLL NAZARETH ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2143451",
+				  "name": " CALARA, MHARC LOUEIS PANGILINAN ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2143637",
+				  "name": " DUMO, CARL JASPER VILLUAN",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				}
+			  ]
+			},
+			{
+			  "classhour": "11:00-12:00",
+			  "students": []
+			},
+			{
+			  "classhour": "11:30-12:30",
+			  "students": []
+			},
+			{
+			  "classhour": "1:00-2:00",
+			  "students": []
+			},
+			{
+			  "classhour": "1:30-2:30",
+			  "students": []
+			},
+			{
+			  "classhour": "2:00-3:00",
+			  "students": []
+			},
+			{
+			  "classhour": "2:30-3:30",
+			  "students": []
+			},
+			{
+			  "classhour": "3:00-4:00",
+			  "students": []
+			},
+			{
+			  "classhour": "3:30-4:30",
+			  "students": []
+			},
+			{
+			  "classhour": "4:00-5:00",
+			  "students": []
+			},
+			{
+			  "classhour": "4:30-5:30",
+			  "students": []
+			},
+			{
+			  "classhour": "5:00-6:00",
+			  "students": []
+			}
+		  ]
+		},
+		{
+		  "classday": "Thursday",
+		  "classhours": [
+			{
+			  "classhour": "7:30-8:30",
+			  "students": []
+			},
+			{
+			  "classhour": "8:00-9:00",
+			  "students": []
+			},
+			{
+			  "classhour": "8:30-9:30",
+			  "students": []
+			},
+			{
+			  "classhour": "9:00-10:00",
+			  "students": [
+				{
+				  "idno": "2145749 BITSO, SHAWNIE DHALE BALTING ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2156821 DUNGAN, JUSTINE RAY FLAVIER ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2155466 PINEDA, REGINE SANTOS ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2154375 PRADES, JAMINA JASREN SORIANO ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2136304 SARMIEN, JEREMIAH JUARIZO",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				}
+			  ]
+			},
+			{
+			  "classhour": "9:30-10:30",
+			  "students": [
+				{
+				  "idno": "2146079",
+				  "name": " ADIAN, LEIGH ANNE DEMOT ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2158498",
+				  "name": " BENITEZ, IYAR RENZO EMPLEO ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2154810",
+				  "name": " BRAVO, MA. MICAELA PANLILIO ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2137884",
+				  "name": " CAMALAO, BRENT CABALLA ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2156749",
+				  "name": " DIAZ, STEPHEN PAUL BAUZON",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				}
+			  ]
+			},
+			{
+			  "classhour": "10:00-11:00",
+			  "students": [
+				{
+				  "idno": "2153124",
+				  "name": " PIMENTEL, JEREMIAH MIKAIL BALUSA ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2158213",
+				  "name": " SIITEN, FRANCIS JOHN LOMASOC ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2155680",
+				  "name": " CABIGAS, MARYKNOLL NAZARETH ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2143451",
+				  "name": " CALARA, MHARC LOUEIS PANGILINAN ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2143637",
+				  "name": " DUMO, CARL JASPER VILLUAN",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				}
+			  ]
+			},
+			{
+			  "classhour": "10:30-11:30",
+			  "students": []
+			},
+			{
+			  "classhour": "11:00-12:00",
+			  "students": []
+			},
+			{
+			  "classhour": "11:30-12:30",
+			  "students": []
+			},
+			{
+			  "classhour": "1:00-2:00",
+			  "students": [
+				{
+				  "idno": "2158270",
+				  "name": " ADVERSAL, AENEID ANTHONY MARI�AS ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2154838",
+				  "name": " GUZMAN, FRANZ VITTORIA JAUCIAN ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2153588",
+				  "name": " SALAZAR, VON KARLOS DELA CRUZ ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2135937",
+				  "name": " TOLEDO, JANN MICHAEL ULANDAY ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2153667",
+				  "name": " TORIO, FRANK JASON PIMENTEL",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				}
+			  ]
+			},
+			{
+			  "classhour": "1:30-2:30",
+			  "students": []
+			},
+			{
+			  "classhour": "2:00-3:00",
+			  "students": [
+				{
+				  "idno": "2158270",
+				  "name": " ADVERSAL, AENEID ANTHONY MARI�AS ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2154838",
+				  "name": " GUZMAN, FRANZ VITTORIA JAUCIAN ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2153588",
+				  "name": " SALAZAR, VON KARLOS DELA CRUZ ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2135937",
+				  "name": " TOLEDO, JANN MICHAEL ULANDAY ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2153667",
+				  "name": " TORIO, FRANK JASON PIMENTEL",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				}
+			  ]
+			},
+			{
+			  "classhour": "2:30-3:30",
+			  "students": []
+			},
+			{
+			  "classhour": "3:00-4:00",
+			  "students": [
+				{
+				  "idno": "2158270",
+				  "name": " ADVERSAL, AENEID ANTHONY MARI�AS ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2154838",
+				  "name": " GUZMAN, FRANZ VITTORIA JAUCIAN ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2153588",
+				  "name": " SALAZAR, VON KARLOS DELA CRUZ ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2135937",
+				  "name": " TOLEDO, JANN MICHAEL ULANDAY ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2153667",
+				  "name": " TORIO, FRANK JASON PIMENTEL",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				}
+			  ]
+			},
+			{
+			  "classhour": "3:30-4:30",
+			  "students": []
+			},
+			{
+			  "classhour": "4:00-5:00",
+			  "students": []
+			},
+			{
+			  "classhour": "4:30-5:30",
+			  "students": []
+			},
+			{
+			  "classhour": "5:00-6:00",
+			  "students": []
+			}
+		  ]
+		},
+		{
+		  "classday": "Friday",
+		  "classhours": [
+			{
+			  "classhour": "7:30-8:30",
+			  "students": []
+			},
+			{
+			  "classhour": "8:00-9:00",
+			  "students": []
+			},
+			{
+			  "classhour": "8:30-9:30",
+			  "students": []
+			},
+			{
+			  "classhour": "9:00-10:00",
+			  "students": []
+			},
+			{
+			  "classhour": "9:30-10:30",
+			  "students": [
+				{
+				  "idno": "2108867",
+				  "name": " AFSARIKA, MEHDI ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2155028",
+				  "name": " CACHIN, JOEBEMARK BENEDICT DE VERA ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2151416",
+				  "name": " CALUB, JANBY LOUIS RITUMALTA ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2143111",
+				  "name": " GARCIA, MARK CARLO VALDEZ ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2152536",
+				  "name": " RABOT, MELCHIZEDEK DE GUZMAN",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				}
+			  ]
+			},
+			{
+			  "classhour": "10:00-11:00",
+			  "students": [
+				{
+				  "idno": "2150582",
+				  "name": " ABLAO, NEIL JOHN TILCAGAN ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2145784",
+				  "name": " GERONIM, JEANIEL BONUS ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2144062",
+				  "name": " QUIAMBA, RYAN CHRISTOPHER RELUCIO ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2135211",
+				  "name": " SAM, PAUL CHRISTIAN CASTRO ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2155690",
+				  "name": " SANIDAD, STEPHANIE ALYSSA LIZARDO",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				}
+			  ]
+			},
+			{
+			  "classhour": "10:30-11:30",
+			  "students": []
+			},
+			{
+			  "classhour": "11:00-12:00",
+			  "students": []
+			},
+			{
+			  "classhour": "11:30-12:30",
+			  "students": []
+			},
+			{
+			  "classhour": "1:00-2:00",
+			  "students": [
+				{
+				  "idno": "2155954",
+				  "name": " GUECO, JESSIRINE NICHOLE ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2144626",
+				  "name": " RAMIREZ, JIMMY JR. CALUZA ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2144084",
+				  "name": " SAYSON, JUSTINE LOUIE BIASON ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2150048",
+				  "name": " TESTADO, JANRIEL GASCON ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2155140",
+				  "name": " BORJE, MA. KAYE AUDREY CACAS",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				}
+			  ]
+			},
+			{
+			  "classhour": "1:30-2:30",
+			  "students": []
+			},
+			{
+			  "classhour": "2:00-3:00",
+			  "students": []
+			},
+			{
+			  "classhour": "2:30-3:30",
+			  "students": []
+			},
+			{
+			  "classhour": "3:00-4:00",
+			  "students": []
+			},
+			{
+			  "classhour": "3:30-4:30",
+			  "students": []
+			},
+			{
+			  "classhour": "4:00-5:00",
+			  "students": []
+			},
+			{
+			  "classhour": "4:30-5:30",
+			  "students": []
+			},
+			{
+			  "classhour": "5:00-6:00",
+			  "students": []
+			}
+		  ]
+		},
+		{
+		  "classday": "Saturday",
+		  "classhours": [
+			{
+			  "classhour": "7:30-8:30",
+			  "students": []
+			},
+			{
+			  "classhour": "8:00-9:00",
+			  "students": []
+			},
+			{
+			  "classhour": "8:30-9:30",
+			  "students": []
+			},
+			{
+			  "classhour": "9:00-10:00",
+			  "students": [
+				{
+				  "idno": "2150582",
+				  "name": " ABLAO, NEIL JOHN TILCAGAN ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2145784",
+				  "name": " GERONIM, JEANIEL BONUS ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2144062",
+				  "name": " QUIAMBA, RYAN CHRISTOPHER RELUCIO ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2135211",
+				  "name": " SAM, PAUL CHRISTIAN CASTRO ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2155690",
+				  "name": " SANIDAD, STEPHANIE ALYSSA LIZARDO",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				}
+			  ]
+			},
+			{
+			  "classhour": "9:30-10:30",
+			  "students": [
+				{
+				  "idno": "2133901",
+				  "name": " RAGANDA, JAN MICHAEL GADONG ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2121855",
+				  "name": " BIGO, REUEL MARTINEZ ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2117170",
+				  "name": " CACAS, FRANCISCO III DE GUZMAN ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2151235",
+				  "name": " SISON, DARREN LALUAN ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2155324",
+				  "name": " TATEL, JAYBRIANE CABUANG",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				}
+			  ]
+			},
+			{
+			  "classhour": "10:00-11:00",
+			  "students": []
+			},
+			{
+			  "classhour": "10:30-11:30",
+			  "students": [
+				{
+				  "idno": "2133901",
+				  "name": " RAGANDA, JAN MICHAEL GADONG ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2121855",
+				  "name": " BIGO, REUEL MARTINEZ ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2117170",
+				  "name": " CACAS, FRANCISCO III DE GUZMAN ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2151235",
+				  "name": " SISON, DARREN LALUAN ",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				},
+				{
+				  "idno": "2155324",
+				  "name": " TATEL, JAYBRIANE CABUANG",
+				  "demerit": "",
+				  "absent": "",
+				  "report": ""
+				}
+			  ]
+			},
+			{
+			  "classhour": "11:00-12:00",
+			  "students": []
+			},
+			{
+			  "classhour": "11:30-12:30",
+			  "students": []
+			},
+			{
+			  "classhour": "1:00-2:00",
+			  "students": []
+			},
+			{
+			  "classhour": "1:30-2:30",
+			  "students": []
+			},
+			{
+			  "classhour": "2:00-3:00",
+			  "students": []
+			},
+			{
+			  "classhour": "2:30-3:30",
+			  "students": []
+			},
+			{
+			  "classhour": "3:00-4:00",
+			  "students": []
+			},
+			{
+			  "classhour": "3:30-4:30",
+			  "students": []
+			},
+			{
+			  "classhour": "4:00-5:00",
+			  "students": []
+			},
+			{
+			  "classhour": "4:30-5:30",
+			  "students": []
+			},
+			{
+			  "classhour": "5:00-6:00",
+			  "students": []
+			}
+		  ]
+		},
+		{
+		  "classday": "Sunday",
+		  "classhours": [
+			{
+			  "classhour": "7:30-8:30",
+			  "students": []
+			},
+			{
+			  "classhour": "8:00-9:00",
+			  "students": []
+			},
+			{
+			  "classhour": "8:30-9:30",
+			  "students": []
+			},
+			{
+			  "classhour": "9:00-10:00",
+			  "students": []
+			},
+			{
+			  "classhour": "9:30-10:30",
+			  "students": []
+			},
+			{
+			  "classhour": "10:00-11:00",
+			  "students": []
+			},
+			{
+			  "classhour": "10:30-11:30",
+			  "students": []
+			},
+			{
+			  "classhour": "11:00-12:00",
+			  "students": []
+			},
+			{
+			  "classhour": "11:30-12:30",
+			  "students": []
+			},
+			{
+			  "classhour": "1:00-2:00",
+			  "students": []
+			},
+			{
+			  "classhour": "1:30-2:30",
+			  "students": []
+			},
+			{
+			  "classhour": "2:00-3:00",
+			  "students": []
+			},
+			{
+			  "classhour": "2:30-3:30",
+			  "students": []
+			},
+			{
+			  "classhour": "3:00-4:00",
+			  "students": []
+			},
+			{
+			  "classhour": "3:30-4:30",
+			  "students": []
+			},
+			{
+			  "classhour": "4:00-5:00",
+			  "students": []
+			},
+			{
+			  "classhour": "4:30-5:30",
+			  "students": []
+			},
+			{
+			  "classhour": "5:00-6:00",
+			  "students": []
+			}
+		  ]
+		}
+	  ]
+	}
+]	
