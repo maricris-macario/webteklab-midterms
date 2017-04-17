@@ -126,3 +126,59 @@ function showClassDays() {
     
     classDaysList.addEventListener("change", showClassHours);
 } 
+function showClassHours() {
+    selectwhat = document.getElementById("selectwhat");
+    selectwhat.innerHTML = "Select a class hour . . .";
+
+    classadviser = document.getElementById("advisername");
+    classhourlist = document.getElementById("classhourlist");
+    classtable = document.getElementById("studentlist");
+    if(classhourlist || classadviser){
+        selectionBox.removeChild(classadviser);
+        selectionBox.removeChild(classhourlist);
+    }
+    if(classtable){
+        selectionBox.removeChild(classtable);
+    }
+
+	selectionBox = document.getElementById("selectionbox");
+	selection = document.getElementById("classcodelist");
+	selectedClasscode = selection.value;
+	selectedClassday = this.value;
+
+	classHourList = document.createElement("select");
+	classHourList.setAttribute("id", "classhourlist");
+	for(x=0; x<classes.length; x++){
+		if(selectedClasscode == classes[x].classcode){
+			adviser = document.createElement("p");
+            adviser.setAttribute("id", "advisername");
+			adviserText = 'Adviser: ' + classes[x].adviser;
+			textNodeForAdviser = document.createTextNode(adviserText);
+			adviser.appendChild(textNodeForAdviser);
+            var existingAdviserName = document.getElementById("advisername");
+	        if(existingAdviserName){
+	            selectionBox.replaceChild(adviser, existingAdviserName);
+            }else{
+		       selectionBox.appendChild(adviser);
+	        }
+			for(y=0; y<classes[x].classdays.length; y++){
+				if(selectedClassday == classes[x].classdays[y].classday){
+					for(z=0; z<classes[x].classdays[y].classhours.length; z++){
+						hourVar = classes[x].classdays[y].classhours[z].classhour;
+						varLi = document.createElement("option");
+						textNodeLi = document.createTextNode(hourVar);
+                        varLi.appendChild(textNodeLi);
+						classHourList.appendChild(varLi);
+					}
+				}
+			}
+		}
+	}
+    var existingHourList = document.getElementById("classhourlist");
+    classHourList.addEventListener('change', showStudents);
+	if(existingHourList){
+	    selectionBox.replaceChild(classHourList, existingHourList);
+    }else{
+		selectionBox.appendChild(classHourList);
+	}
+} 
